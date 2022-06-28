@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvCountryName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Country Name" />
+
+    <TextView
+        android:id="@+id/tvCountryCapital"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Country's capital" />
+
+    <TextView
+        android:id="@+id/tvCountryPopulation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Country's popultaion" />
+</LinearLayout>

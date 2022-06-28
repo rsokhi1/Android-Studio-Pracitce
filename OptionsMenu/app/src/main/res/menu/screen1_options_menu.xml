@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/miOpenWebsite"
+        android:title="Go to Website"
+        ></item>
+    <item
+        android:id="@+id/miScreen2"
+        android:title="Go to screen 2"
+        ></item>
+    <item
+        android:id="@+id/miUpdate"
+        android:title="Update"
+        ></item>
+
+</menu>
